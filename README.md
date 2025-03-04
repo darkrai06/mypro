@@ -22,7 +22,7 @@ Follow these steps to set up and run the project:
 1. **Clone the Repository**
    ```sh
    git clone https://github.com/yourusername/blood-bank-management.git
-   cd blood-bank-management
+   cd mypro
    ```
 
 2. **Install Dependencies** (Ensure GTK and Glade are installed)
